@@ -15,3 +15,7 @@ Kisan, Student, Aam aadmi ke liye Hindi AI.
 
 ## Made By
 Made in Bihar, India 🇮🇳
+---
+**Made with ❤️ by [Chandan Kumar]**  
+**BIHAR FIRST | Made in Patna, India**  
+**Contact: chandanjha2016@gmail.com]**
