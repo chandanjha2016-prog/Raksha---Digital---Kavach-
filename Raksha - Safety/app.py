@@ -2,11 +2,11 @@
 # DISCLAIMER : ye educational/demo purpose ke liye hai.
 # Real road safety decisions ke liye traffic rules aur experts ko follow karo.
 # Model ka prediction 100% accurate nahi hota.
-# Signature: chandan jha | RAKSHA KAR MAA - AI Road Safety Predictor | 2026
+# Signature: chandan kumar| RAKSHA KAR MAA - AI Road Safety Predictor | 2026
 
 
 from flask import Flask, render_template, request,jsonify
-from tensorflow.keras.models import load_model
+#from tensorflow.keras.models import load_model
 import numpy as np
 imort pickle
 
