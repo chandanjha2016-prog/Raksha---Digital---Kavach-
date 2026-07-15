@@ -15,3 +15,7 @@ Voice se 108 Ambulance book karo. 10 second me help.
 
 ## Made By
 Made in Patna, Bihar 🇮🇳
+---
+**Made with ❤️ by [Chandan Kumar]**  
+**BIHAR FIRST | Made in Patna, India**  
+**Contact: [chandanjha2016@gmail.com]**
